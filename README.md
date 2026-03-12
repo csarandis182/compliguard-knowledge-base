@@ -2,7 +2,7 @@
 
 **Purpose:** Regulatory knowledge base for CompliGUARD AI compliance review system  
 **Usage:** Fetched by n8n workflow nodes to provide grounded regulatory context to Claude compliance assessments  
-**Maintained by:** CompliGUARD / ClickFlow Digital Marketing  
+**Maintained by:** CompliGUARD  
 **Last updated:** March 2026
 
 ---
